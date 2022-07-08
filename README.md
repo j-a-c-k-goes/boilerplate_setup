@@ -1,1 +1,3 @@
-Boilerplate template, from command line.
+```
+Boilerplate template, created from the command line.
+```
