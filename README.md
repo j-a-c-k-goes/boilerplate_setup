@@ -11,7 +11,7 @@ This repo create a boilerplate template for web development.
 `gh repo clone j-a-c-k-goes/boilerplate_setup`
 
 ## Downloading the Node Modules
-`node --version` (check if node installed first)
+`node --version` (check if node installed first)  
 `npm install`
 
 ## Running the Server
