@@ -1,1 +1,26 @@
-
+{
+  "name": "boilerplate-setup",
+  "version": "1.0.0",
+  "description": "Boilerplate for Web Development",
+  "main": "client/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon client/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-a-c-k-goes/boilerplate_setup.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-a-c-k-goes/boilerplate_setup/issues"
+  },
+  "homepage": "https://github.com/j-a-c-k-goes/boilerplate_setup#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
