@@ -7,7 +7,7 @@ This repo create a boilerplate template for web development.
 * Code directories (js, json, css)
 * Media Directories (audio, vide0, fonts, icons, images)
 
-## Downloding the Repo
+## Downloading the Repo
 `gh repo clone j-a-c-k-goes/boilerplate_setup`
 
 ## Downloading the Node Modules
