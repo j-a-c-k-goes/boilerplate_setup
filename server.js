@@ -1,1 +1,1 @@
-//check client/src/index.js for server.
+// Serve from @ public/index.js
